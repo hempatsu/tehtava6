@@ -1,4 +1,4 @@
-piimää
+MEHUA
 leipää
 rahkaa
 muroja
@@ -6,3 +6,4 @@ banaania
 vessapaperia
 porkkanoita
 KAURAPUUROA
+MUSTIKOITA
